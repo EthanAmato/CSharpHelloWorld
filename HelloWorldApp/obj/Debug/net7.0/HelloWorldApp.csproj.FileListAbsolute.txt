@@ -1,0 +1,15 @@
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.exe
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.deps.json
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.runtimeconfig.json
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.dll
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\bin\Debug\net7.0\HelloWorldApp.pdb
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.csproj.AssemblyReference.cache
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.AssemblyInfoInputs.cache
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.AssemblyInfo.cs
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.dll
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\obj\Debug\net7.0\refint\HelloWorldApp.dll
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.pdb
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.genruntimeconfig.cache
+c:\Users\ethan\Desktop\Code Projects\CSharp\HelloWorld\HelloWorldApp\obj\Debug\net7.0\ref\HelloWorldApp.dll
